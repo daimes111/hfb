@@ -4,7 +4,11 @@
 body {
   margin-top:20px;
   font-family: Osaka;
-  background-color: red;
+
+  /* This color is better */
+  background-color: rgb(243, 129, 148);
+  /* This color is better */
+
   color: inherit;
 }
 
